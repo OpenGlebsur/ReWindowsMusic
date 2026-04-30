@@ -1,29 +1,11 @@
 <music>
   <!-- Original podcast episodes (fixed) -->
-  <song>
-    <title>Legacy Coders Podcasts | Why starting an revival? | EP.1 (ft. Slight Commercial from 8Store)</title>
-    <artist>OpenNetDude &amp; MSN Money</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
-  </song>
-  <song>
-    <title>Legacy Coders Podcasts | Future of Reverse-Programming | EP.2 (ft. mssans, winarchive developer)</title>
-    <artist>OpenNetDude &amp; mssans</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
-  </song>
-  <song>
-    <title>Welcome To OpenPodcats</title>
-    <artist>OpenTracks</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
-  </song>
-
+ 
   <!-- All tracks from https://open-tracks.vercel.app/ (unique, in the order shown on the site) -->
   <song>
     <title>Energy</title>
     <artist>Elektronomia</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
+    <albumArt></albumArt>
     <url/>
   </song>
   <song>
