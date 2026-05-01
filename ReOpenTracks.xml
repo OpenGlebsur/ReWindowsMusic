@@ -1,227 +1,137 @@
 <music>
-  <!-- Original podcast episodes (fixed) -->
- 
-  <!-- All tracks from https://open-tracks.vercel.app/ (unique, in the order shown on the site) -->
   <song>
     <title>Energy</title>
     <artist>Elektronomia</artist>
-    <albumArt></albumArt>
-    <url/>
+    <url>https:/https://github.com/OpenGlebsur/ReWindowsMusic/raw/refs/heads/main/Elektronomia%20-%20Energy%20%5BNCS%20Release%5D.mp3/url>
   </song>
   <song>
     <title>Adventure</title>
     <artist>JJD</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://github.com/OpenGlebsur/ReWindowsMusic/raw/refs/heads/main/JJD_-_Adventure_NCS_Release_-_JJD_-_Adventure_NCS_Release_63942561.mp3/url>
   </song>
   <song>
     <title>Arrow</title>
     <artist>Jim Yusef</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <urlhttps://github.com/OpenGlebsur/ReWindowsMusic/raw/refs/heads/main/Jim%20Yosef%20-%20Arrow%20%5BNCS%20Release%5D%20(1).mp3</url>
   </song>
   <song>
     <title>Blank</title>
     <artist>Disfigure</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://github.com/OpenGlebsur/ReWindowsMusic/raw/refs/heads/main/Disfigure%20-%20Blank%20%5BNCS%20Release%5D.mp3</url>
   </song>
   <song>
     <title>Candyland</title>
     <artist>Tobu</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://github.com/OpenGlebsur/ReWindowsMusic/raw/refs/heads/main/Tobu_-_Candyland_NCS_Release_66510870.mp3</url>
   </song>
   <song>
     <title>Cetus</title>
     <artist>Lensko</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://github.com/OpenGlebsur/ReWindowsMusic/raw/refs/heads/main/Lensko%20-%20Cetus%20%5BNCS%20Release%5D.mp3</url>
   </song>
   <song>
     <title>Circle</title>
     <artist>Lensko</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://github.com/OpenGlebsur/ReWindowsMusic/raw/refs/heads/main/Lensko%20-%20Circles%20%5BNCS%20Release%5D.mp3</url>
   </song>
   <song>
     <title>Cloud 9</title>
     <artist>Tobu</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://github.com/OpenGlebsur/ReWindowsMusic/raw/refs/heads/main/Itro_Tobu_-_Cloud_9_NCS_Release_65667637.mp3</url>
   </song>
   <song>
     <title>Entropy</title>
     <artist>Distrion ft. Alex</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/entropy</url>
   </song>
   <song>
     <title>Feel Good</title>
     <artist>syn cole</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/feel-good</url>
   </song>
   <song>
     <title>Firefly</title>
     <artist>Jim Yusef</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/firefly</url>
   </song>
   <song>
     <title>Good Times</title>
     <artist>Tobu</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/good-times</url>
   </song>
   <song>
     <title>Hellcat</title>
     <artist>Desmeon</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/hellcat</url>
   </song>
   <song>
     <title>Jackpot</title>
     <artist>TheFatRat</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/jackpot</url>
   </song>
   <song>
     <title>Hello</title>
     <artist>OMFG</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/hello</url>
   </song>
   <song>
     <title>High</title>
     <artist>JPB</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/high</url>
   </song>
   <song>
     <title>Higher</title>
     <artist>Tobu</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/higher</url>
   </song>
   <song>
     <title>Hope</title>
     <artist>Tobu</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/hope</url>
   </song>
   <song>
     <title>Infectious</title>
     <artist>Tobu</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/infectious</url>
   </song>
   <song>
     <title>Invincible</title>
     <artist>DEAF KEV</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/invincible</url>
   </song>
   <song>
     <title>Limitless</title>
     <artist>Elektronomia</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/limitless</url>
   </song>
   <song>
     <title>Link</title>
     <artist>Jim Yusef</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/link</url>
   </song>
   <song>
     <title>Monody</title>
     <artist>TheFatRat</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
-  </song>
-  <song>
-    <title>My heart</title>
-    <artist>Different Heaven</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
-  </song>
-  <song>
-    <title>On &amp; On</title>
-    <artist>Cartoon ft. jeja</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/monody</url>
   </song>
   <song>
     <title>Puzzle</title>
     <artist>RetroVision</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/puzzle</url>
   </song>
   <song>
     <title>time lapse</title>
     <artist>TheFatRat</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/time-lapse</url>
   </song>
   <song>
     <title>Windfall</title>
     <artist>TheFatRat</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/windfall</url>
   </song>
   <song>
     <title>Xenogenesis</title>
     <artist>TheFatRat</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
-  </song>
-  <song>
-    <title>Popsicle</title>
-    <artist>LFZ</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
-  </song>
-  <song>
-    <title>Nekozila</title>
-    <artist>Different Heaven</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
-  </song>
-  <song>
-    <title>Symbolism</title>
-    <artist>electrolight</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
-  </song>
-  <song>
-    <title>Sky High</title>
-    <artist>Elektronomia</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
-  </song>
-  <song>
-    <title>Nova</title>
-    <artist>Ahrix</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
-  </song>
-  <song>
-    <title>Let's Go!</title>
-    <artist>Lensko</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
-  </song>
-  <song>
-    <title>Unity</title>
-    <artist>TheFatRat</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
-  </song>
-  <song>
-    <title>Sunburst</title>
-    <artist>Tobu</artist>
-    <albumArt>https://github.com/OpenGlebsur/ReWindowsMusic/blob/main/Снимок%20экрана%202026-04-28%20221301.png?raw=true</albumArt>
-    <url/>
+    <url>https://open-tracks.vercel.app/track/xenogenesis</url>
   </song>
 </music>
